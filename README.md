@@ -5,7 +5,7 @@
 </div>  
   
 
-### <div align="center">I'm Avinash Reddy, Working on Data Science..!!🪜🪜</div>  
+### <div align="center">I'm Shivang Singh, Working on Data Science..!!🪜🪜</div>  
   
 
 - 👋 Hi, I’m @ShivangSingh15
