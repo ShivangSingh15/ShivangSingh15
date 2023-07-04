@@ -35,7 +35,7 @@
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" /></a>  
 <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a> 
-<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F2%2F2d%2FTensorflow_logo.svg%2F1915px-Tensorflow_logo.svg.png&tbnid=1vDI9mmjBY5zKM&vet=12ahUKEwjsmq7fq_T_AhXYu2MGHYCOAK8QMygGegUIARD1AQ..i&imgrefurl=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ATensorflow_logo.svg&docid=nSG5ArzIFHqNkM&w=1915&h=2048&q=tensorflow%20image&ved=2ahUKEwjsmq7fq_T_AhXYu2MGHYCOAK8QMygGegUIARD1AQ" alt="Tensorflow" height="50" /></a>
+<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://editor.analyticsvidhya.com/uploads/22024tf.png" alt="Tensorflow" height="50" /></a>
 </div>
 
 
