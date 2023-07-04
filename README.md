@@ -33,6 +33,7 @@
 <a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" /></a>  
 <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a> 
 <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://editor.analyticsvidhya.com/uploads/22024tf.png" alt="Tensorflow" height="50" /></a>
+<a href="https://generativeai.net/" target="_blank"><img style="margin: 10px" src="<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://editor.analyticsvidhya.com/uploads/22024tf.png" alt="Tensorflow" height="50" /></a>" alt="Tensorflow" height="50" /></a>
 </div>
 
 
