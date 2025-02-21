@@ -9,8 +9,8 @@
   
 
 - 👋 Hi, I’m @ShivangSingh15
-- 👀 I’m interested in Data Science, Machine Learning and Deep Learning
-- 🌱 I’m currently learning Deep learning from Andrew NG course from Coursera
+- 👀 I’m interested in Data Science, Engineering and Analytics.
+- 🌱 I’m currently learning new Data Platforms like Databrciks, Snowflake etc...
 - 💞️ I’m looking to collaborate on ML/DL projects
 - 📫 How to reach me email : shivangkvpy@gmail.com
 
